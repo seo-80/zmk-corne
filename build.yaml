@@ -13,11 +13,11 @@
 #
 ---
 include:
-  - board: seeed_xiao_ble/nrf52840/zmk
+  - board: xiao_ble//zmk
     shield: chipper_left
-  - board: seeed_xiao_ble/nrf52840/zmk
+  - board: xiao_ble//zmk
     shield: chipper_right
-  - board: seeed_xiao_ble/nrf52840/zmk
+  - board: xiao_ble//zmk
     shield: settings_reset
 
 
